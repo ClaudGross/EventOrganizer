@@ -1,0 +1,2 @@
+# EventOrganizer
+school project c#
